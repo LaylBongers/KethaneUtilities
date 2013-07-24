@@ -20,4 +20,5 @@ Running
 After building the mod, it's easy to run it:
 
 1. Copy the folder ModFolder created after building to KSP's GameData folder
-2. Run KSP.exe
+3. IMPORTANT: Rename the folder to Kethane
+3. Run KSP.exe
