@@ -1,5 +1,5 @@
-﻿Kethane Utils
-=============
+﻿Kethane Utilities
+=================
 
 This is a set of scripts for Windows users to simplify tasks while working on the [Kethane Pack](https://github.com/Majiir/Kethane) for [Kerbal Space Program](http://www.kerbalspaceprogram.com/).
 If this utility set breaks, please post a bug report on github and I'll fix it as soon as possible.
