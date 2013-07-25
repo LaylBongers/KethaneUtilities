@@ -3,7 +3,7 @@
 
 This is a set of scripts for Windows users to simplify tasks while working on the [Kethane Pack](https://github.com/Majiir/Kethane) for [Kerbal Space Program](http://www.kerbalspaceprogram.com/). If this utility set breaks, please post a bug report on github and I'll fix it as soon as possible.
 
-WARNING: full_build.bat and create_mod_folder.bat delete ModFolder. Do not keep your model and cfg files in there.
+**WARNING**: create_mod_folder.bat deletes ModFolder. Do not keep your model and cfg files in there.
 
 Building
 --------
